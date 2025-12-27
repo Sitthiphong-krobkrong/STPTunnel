@@ -55,14 +55,18 @@ Built with .NET 8 + Avalonia UI
 ### 🛠 Build & Run (สำหรับนักพัฒนา)
 dotnet run
 
-### Publish (macOS Apple Silicon)
+Publish (macOS Apple Silicon)
 dotnet publish -c Release -r osx-arm64 --self-contained true /p:PublishSingleFile=true
 
-### Publish (Windows)
+Publish (Windows)
 dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true
+
+---
 
 ### 📄 License
 Personal / Internal use
+
+---
 
 ### 👤 Author
 Sitthiphong Krobkrong
