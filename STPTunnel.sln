@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STPTunnel", "STPTunnel.csproj", "{BA48DE4C-ED28-2B8B-3F83-CD8D484DFB94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA48DE4C-ED28-2B8B-3F83-CD8D484DFB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA48DE4C-ED28-2B8B-3F83-CD8D484DFB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA48DE4C-ED28-2B8B-3F83-CD8D484DFB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA48DE4C-ED28-2B8B-3F83-CD8D484DFB94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38F85A06-8E34-4F0E-B73F-2F002EF26BDE}
+	EndGlobalSection
+EndGlobal
