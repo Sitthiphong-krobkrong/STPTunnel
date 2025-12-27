@@ -64,10 +64,10 @@ Built with .NET 8 + Avalonia UI
 dotnet run
 
 Publish (macOS Apple Silicon)
-dotnet publish -c Release -r osx-arm64 --self-contained true /p:PublishSingleFile=true
+- dotnet publish -c Release -r osx-arm64 --self-contained true /p:PublishSingleFile=true
 
 Publish (Windows)
-dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true
+- dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true
 
 ---
 
