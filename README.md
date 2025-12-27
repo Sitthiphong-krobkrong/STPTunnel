@@ -26,6 +26,14 @@ Built with .NET 8 + Avalonia UI
 
 ---
 
+### Architecture
+- UI Layer: Avalonia UI (XAML, Tray App)
+- MVVM: SettingsVm
+- Core: TunnelEngine, ConfigStore (JSON), SshKeyHelper
+- System: OpenSSH (ssh / ssh-keygen)
+     
+---
+
 ### 🧭 Workflow การใช้งาน
 
 1. เปิด **Settings**
@@ -70,3 +78,5 @@ Personal / Internal use
 
 ### 👤 Author
 Sitthiphong Krobkrong
+
+
